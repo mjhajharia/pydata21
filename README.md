@@ -1,7 +1,7 @@
 # Bayesian Hierarchical Modeling in PyMC
 
 PyData 2021
-
+ 
 This repository contains
 - slides
 - notebook
